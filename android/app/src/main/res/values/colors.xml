@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "deepPurple">#673AB7</color>
+    <color name = "lightPurple">#D1C4E9</color>
+    <color name = "purple">#9C27B0</color>
+    <color name = "colorFondoApp">#ffffff</color>
+</resources>
